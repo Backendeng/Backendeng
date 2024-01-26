@@ -1,0 +1,5 @@
+docs: Changes related to documentation.
+style: Code style changes (e.g., formatting, indentation) that do not affect the code's functionality.
+refactor: Code changes that neither fix a bug nor add a feature, often restructuring existing code.
+test: Adding or modifying tests.
+chore: Routine tasks, maintenance, or other non-coding activities.
